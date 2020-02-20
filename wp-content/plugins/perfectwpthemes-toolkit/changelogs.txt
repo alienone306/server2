@@ -1,0 +1,31 @@
+
+== Changelog ==
+
+== 1.0.4 - February 12, 2020 ==
+
+- Masonry Blog demo importer added
+
+
+== 1.0.3 - March 27, 2019 ==
+
+- Addition of social share links
+- Change in description in perfectwpthemes-toolkit.php
+
+
+== 1.0.2 - March 18, 2019 ==
+
+- Googleplus social share removed
+- Image sizes option removed form instagram widget
+- Glaze Blog demo importer included
+- Other Minor Changes
+
+
+== 1.0.1 - March 07, 2019 ==
+
+- Demo importer added
+- Theme info of Glaze Blog Lite changed
+
+
+== 1.0.0 - December 17, 2018 ==
+
+- Initial release

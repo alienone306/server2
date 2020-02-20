@@ -1,0 +1,28 @@
+#sq_wrap{
+    margin: 0 !important;
+}
+
+#wpwrap #wpcontent{
+    padding: 0 !important;
+    margin: 0 !important;
+    top: 0 !important;
+    left: 0 !important;
+}
+
+#wpwrap #adminmenumain,
+#wpwrap #adminmenuwrap,
+#wpwrap #adminmenuback,
+#wpwrap #footer,
+#wpwrap #wpfooter{
+    display: none !important;
+}
+
+#update-nag, .notice-error, .update-nag, .updated, .show-settings, .screen-meta-toggle, .notice-warning,
+div.fs-notice.updated, div.fs-notice.success, div.fs-notice.promotion, div.error, .notice:not(.sq_notice),
+.poopy_affiliates,.toolbar-header  {
+    display: none !important;
+}
+
+#sq_wrap .sq_help_toolbar {
+    right: 70px !important;
+}

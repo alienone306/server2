@@ -1,0 +1,24 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .perfectwpthemes-toolkit-notice {
+
+    border: 10px solid #fff;
+    color: #608299;
+    padding: 30px 10px;
+    text-align: center;
+    box-shadow: none;
+    text-align: center;
+    padding: 25px;
+    position: relative;
+}
+
+.perfectwpthemes-toolkit-notice .button-hero {
+    
+	border-radius: 30px;
+	border: none;
+	margin-top: 10px;
+	box-shadow: none !important;
+}
+

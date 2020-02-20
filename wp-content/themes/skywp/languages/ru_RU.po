@@ -1,0 +1,1227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SkyWP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-24 14:08+0000\n"
+"PO-Revision-Date: 2019-07-24 14:13+0000\n"
+"Last-Translator: admin <Urchenko-1813@mail.ru>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. 1: title.
+#: comments.php:30
+#, php-format
+msgid "One comment on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%1$s&rdquo;"
+
+#. 1: comment count number, 2: title.
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+#: comments.php:79
+msgid "Name (required)"
+msgstr "Имя (Обязательно)"
+
+#: comments.php:82
+msgid "Email (required)"
+msgstr "Email (Обязательно)"
+
+#: comments.php:85
+msgid "Website"
+msgstr ""
+
+#: comments.php:87
+msgid "Comment..."
+msgstr "Комментарий..."
+
+#: comments.php:88
+msgid "Leave a Comment"
+msgstr "Оставьте свой комментарий"
+
+#: comments.php:89
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "Оставить комментарий к  %s"
+
+#: functions.php:70
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: functions.php:71 inc/customizer/settings/footer.php:26
+msgid "Footer"
+msgstr "Подвал сайта"
+
+#: functions.php:178
+msgid "Sidebar Right"
+msgstr "Покавая панель справа"
+
+#: functions.php:180
+msgid ""
+"Widgets in this area will be displayed in the right sidebar area if you "
+"choose the Right Sidebar layout."
+msgstr ""
+"Размещенные здесь виджеты будут отображаться в правой боковой панели, если "
+"вы выберете макет с правой боковой панелью."
+
+#. Name of the template
+#: functions.php:188
+msgid "Sidebar Left"
+msgstr "Бокавая панель слева"
+
+#: functions.php:190
+msgid ""
+"Widgets in this area will be displayed in the left sidebar area if you "
+"choose the Left Sidebar layout."
+msgstr ""
+"Размещенные здесь виджеты будут отображаться в левой боковой панели, если вы "
+"выберете макет с левой боковой панелью."
+
+#: functions.php:198
+msgid "Footer 1"
+msgstr "Первая колонка"
+
+#: functions.php:200
+msgid "Widgets in this area are used in the first footer region."
+msgstr "Размещенные здесь виджеты будут отображаться в первой колонке подвала."
+
+#: functions.php:208
+msgid "Footer 2"
+msgstr "Вторая колонка"
+
+#: functions.php:210
+msgid "Widgets in this area are used in the second footer region."
+msgstr ""
+"Размещенные здесь виджеты будут отображаться во второй колонке подвала."
+
+#: functions.php:218
+msgid "Footer 3"
+msgstr "Третья колонка"
+
+#: functions.php:220
+msgid "Widgets in this area are used in the third footer region."
+msgstr ""
+"Размещенные здесь виджеты будут отображаться в третьей колонке подвала."
+
+#: functions.php:228
+msgid "Footer 4"
+msgstr "Четвертая колонка"
+
+#: functions.php:230
+msgid "Widgets in this area are used in the fourth footer region."
+msgstr ""
+"Размещенные здесь виджеты будут отображаться в четвертой колонке подвала."
+
+#: functions.php:238 inc/customizer/settings/footer.php:145
+msgid "Copyright"
+msgstr "Авторское право"
+
+#: functions.php:240
+msgid "Widgets in this area are used in the copyright region."
+msgstr ""
+"Размещенные здесь виджеты будут отображаться в области авторского права."
+
+#: functions.php:248 inc/customizer/settings/general.php:1308
+msgid "404"
+msgstr "400"
+
+#: functions.php:250
+msgid "Widgets in this area are used in the page 404."
+msgstr "Размещенные здесь виджеты будут отображаться на странице 404."
+
+#: functions.php:548
+#, php-format
+msgid ""
+"Importing demo data allow you to quickly edit everything instead of creating "
+"content from scratch. It is recommended uploading sample data on a fresh "
+"WordPress install to prevent conflicts with your current content. You can "
+"use this plugin to reset your site if needed: %1$sWordpress Database "
+"Resets%2$s."
+msgstr ""
+"Импорт демо-данных позволяет быстро редактировать все, а не создавать "
+"контент с нуля. Рекомендуется загружать образцы данных на новую установку "
+"WordPress, чтобы предотвратить конфликты с вашим текущим контентом. Вы "
+"можете использовать этот плагин для сброса вашего сайта, если это необходимо:"
+"  %1$sWordpress Database Resets%2$s."
+
+#: functions.php:558
+msgid "Import Demo Data"
+msgstr "Импортировать демо данные"
+
+#: functions.php:559
+msgid "SkyWP Import Demo"
+msgstr "SkyWP Импортировать Демо"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: searchform.php:18 inc/customizer/settings/header.php:573
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/helpers.php:49
+msgid "Twitter"
+msgstr ""
+
+#: inc/helpers.php:53
+msgid "Facebook"
+msgstr ""
+
+#: inc/helpers.php:57
+msgid "Odnoklassniki"
+msgstr ""
+
+#: inc/helpers.php:61
+msgid "Pinterest"
+msgstr ""
+
+#: inc/helpers.php:65
+msgid "Dribbble"
+msgstr ""
+
+#: inc/helpers.php:69
+msgid "VK"
+msgstr ""
+
+#: inc/helpers.php:73
+msgid "Instagram"
+msgstr ""
+
+#: inc/helpers.php:77
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/helpers.php:81
+msgid "Tumblr"
+msgstr ""
+
+#: inc/helpers.php:85
+msgid "Github"
+msgstr ""
+
+#: inc/helpers.php:89
+msgid "Flickr"
+msgstr ""
+
+#: inc/helpers.php:93
+msgid "Skype"
+msgstr ""
+
+#: inc/helpers.php:97
+msgid "Youtube"
+msgstr ""
+
+#: inc/helpers.php:101
+msgid "Vimeo"
+msgstr ""
+
+#: inc/helpers.php:105
+msgid "Vine"
+msgstr ""
+
+#: inc/helpers.php:109
+msgid "Xing"
+msgstr ""
+
+#: inc/helpers.php:113
+msgid "Yelp"
+msgstr ""
+
+#: inc/helpers.php:117
+msgid "Tripadvisor"
+msgstr ""
+
+#: inc/helpers.php:121
+msgid "RSS"
+msgstr ""
+
+#: inc/helpers.php:125
+msgid "Email"
+msgstr ""
+
+#: inc/helpers.php:389
+msgid "SkyWP Theme WordPress"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:31
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#. %s: post author.
+#: inc/template-tags.php:47
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:64
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:67
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:71
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:74
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:84
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:101
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Couldn't find what you're looking for!"
+msgstr "Не смог найти то, что вы искали!"
+
+#: template-parts/content-none.php:22
+msgid "Oops!"
+msgstr "Ой!"
+
+#: template-parts/content-none.php:26
+msgid "Try again"
+msgstr "Попробовать снова"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:33
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы опубликовать свою первую статью? <a href=\"%1$s\">Нажмите здесь</a>."
+
+#: template-parts/content-none.php:46
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, поиск не дал результатов. Попробуйте еще раз с другими ключевыми "
+"словами."
+
+#: template-parts/content-none.php:52
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+"Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#: template-parts/content-search.php:43 template-parts/content.php:40
+msgid "Comments Off"
+msgstr "Комментарии отключены"
+
+#: template-parts/content-search.php:67 template-parts/content.php:64
+msgid "Pages:"
+msgstr "Страницы:"
+
+#. Name of the template
+msgid "Full Width For Elementor"
+msgstr "Во всю ширину для Элементора"
+
+#. Name of the template
+msgid "Landing Page"
+msgstr ""
+
+#. Name of the template
+msgid "No Sidebar Centered"
+msgstr "По центру и без боковой панели"
+
+#: template-parts/subheader.php:77
+msgid "404 Not Found"
+msgstr "404 Не Найдено"
+
+#: template-parts/subheader.php:83
+msgid "You searched for:"
+msgstr "Вы искали:"
+
+#: template-parts/subheader.php:88
+msgid "Search results for"
+msgstr "Результаты поиска"
+
+#: inc/walker/sky-class-walker-comment.php:242
+msgid "Pingback:"
+msgstr ""
+
+#: inc/walker/sky-class-walker-comment.php:242
+#: inc/walker/sky-class-walker-comment.php:395
+msgid "Edit"
+msgstr "Редактировать"
+
+#: inc/walker/sky-class-walker-comment.php:269
+#: inc/walker/sky-class-walker-comment.php:359
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ошидает модерации."
+
+#: inc/walker/sky-class-walker-comment.php:271
+#: inc/walker/sky-class-walker-comment.php:361
+msgid ""
+"Your comment is awaiting moderation. This is a preview, your comment will be "
+"visible after it has been approved."
+msgstr ""
+"Ваш комментарий ожидает модерации. Это предварительный просмотр, ваш "
+"комментарий будет виден после его одобрения."
+
+#. %s: comment author link
+#: inc/walker/sky-class-walker-comment.php:287
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#. 1: comment date, 2: comment time
+#: inc/walker/sky-class-walker-comment.php:300
+#: inc/walker/sky-class-walker-comment.php:391
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/walker/sky-class-walker-comment.php:304
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: inc/walker/sky-class-walker-comment.php:411
+msgid "Reply"
+msgstr "Ответить"
+
+#: inc/widgets/class-sky-widget-recent-comments.php:27
+msgid "Your site&#8217;s most recent comments."
+msgstr ""
+
+#: inc/widgets/class-sky-widget-recent-comments.php:30
+msgid "SkyWP Recent Comments"
+msgstr ""
+
+#: inc/widgets/class-sky-widget-recent-comments.php:77
+msgid "Recent Comments"
+msgstr "Последние комментарии"
+
+#. comments widget: 1: comment author, 2: post link
+#: inc/widgets/class-sky-widget-recent-comments.php:124
+#, php-format
+msgid "%1$s : %2$s"
+msgstr ""
+
+#: inc/widgets/class-sky-widget-recent-comments.php:165
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/widgets/class-sky-widget-recent-comments.php:168
+msgid "Number of comments to show:"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:26
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/customizer/settings/blog.php:37
+msgid "Blog Settings"
+msgstr "Настройки блога"
+
+#: inc/customizer/settings/blog.php:51 inc/customizer/settings/footer.php:87
+#: inc/customizer/settings/footer.php:214
+#: inc/customizer/settings/header.php:503
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customizer/settings/blog.php:66 inc/customizer/settings/general.php:830
+#: inc/customizer/settings/header.php:220
+msgid "Box Shadow"
+msgstr "Тень"
+
+#: inc/customizer/settings/blog.php:82 inc/customizer/settings/footer.php:102
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: inc/customizer/settings/blog.php:97
+msgid "Meta Color"
+msgstr "Цвет мета данных"
+
+#: inc/customizer/settings/blog.php:110
+msgid "Pagination"
+msgstr "Пагинация"
+
+#: inc/customizer/settings/blog.php:124
+msgid "Align:"
+msgstr "Выравнивание:"
+
+#: inc/customizer/settings/blog.php:130 inc/customizer/settings/footer.php:164
+#: inc/customizer/settings/topbar.php:138
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer/settings/blog.php:131 inc/customizer/settings/footer.php:165
+#: inc/customizer/settings/header.php:453
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer/settings/blog.php:132 inc/customizer/settings/footer.php:166
+#: inc/customizer/settings/header.php:454
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer/settings/blog.php:145 inc/customizer/settings/footer.php:182
+#: inc/customizer/settings/general.php:502
+#: inc/customizer/settings/general.php:645
+#: inc/customizer/settings/general.php:921
+#: inc/customizer/settings/header.php:324
+#: inc/customizer/settings/topbar.php:260
+#: inc/customizer/settings/topbar.php:382
+msgid "Font Size (px):"
+msgstr "Размер шрифта (px)"
+
+#: inc/customizer/settings/blog.php:161 inc/customizer/settings/general.php:784
+#: inc/customizer/settings/general.php:954
+msgid "Border (px):"
+msgstr "Рамка (px):"
+
+#: inc/customizer/settings/blog.php:177 inc/customizer/settings/footer.php:117
+#: inc/customizer/settings/general.php:602
+#: inc/customizer/settings/general.php:800
+#: inc/customizer/settings/general.php:986
+#: inc/customizer/settings/header.php:531
+#: inc/customizer/settings/topbar.php:197
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: inc/customizer/settings/blog.php:192
+msgid "Border Color :Hover"
+msgstr ""
+
+#: inc/customizer/settings/blog.php:207 inc/customizer/settings/general.php:203
+#: inc/customizer/settings/general.php:298
+#: inc/customizer/settings/general.php:1016
+#: inc/customizer/settings/general.php:1091
+#: inc/customizer/settings/general.php:1322
+#: inc/customizer/settings/general.php:1366
+#: inc/customizer/settings/header.php:274
+#: inc/customizer/settings/header.php:295
+#: inc/customizer/settings/header.php:545
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/customizer/settings/blog.php:222
+msgid "Color: Hover"
+msgstr "Цвет при наведении"
+
+#: inc/customizer/settings/blog.php:237 inc/customizer/settings/general.php:862
+#: inc/customizer/settings/general.php:970
+msgid "Border Radius (px):"
+msgstr "Скругление углов (px)"
+
+#: inc/customizer/settings/footer.php:38
+msgid "Footer Bottom Setting"
+msgstr "Настройка подвала сайта"
+
+#: inc/customizer/settings/footer.php:52
+msgid "Footer Layout"
+msgstr "Макет подвала"
+
+#: inc/customizer/settings/footer.php:58
+#, php-format
+msgid "25% - 25% - 25% - 25%"
+msgstr "Четыре колонки 25%"
+
+#: inc/customizer/settings/footer.php:71 inc/customizer/settings/footer.php:198
+#: inc/customizer/settings/general.php:447
+#: inc/customizer/settings/general.php:707
+#: inc/customizer/settings/general.php:937
+#: inc/customizer/settings/general.php:1074
+#: inc/customizer/settings/header.php:418
+#: inc/customizer/settings/topbar.php:111
+#: inc/customizer/settings/topbar.php:401
+msgid "Padding (px):"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:132
+#: inc/customizer/settings/topbar.php:275
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/customizer/settings/footer.php:158
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: inc/customizer/settings/footer.php:167
+msgid "Space Between"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:168
+#: inc/customizer/settings/topbar.php:137
+msgid "Space Around"
+msgstr ""
+
+#: inc/customizer/settings/footer.php:169
+msgid "Space Evenly"
+msgstr ""
+
+#: inc/customizer/settings/general.php:26
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/customizer/settings/general.php:34
+msgid "General Styling"
+msgstr "Основные стили"
+
+#: inc/customizer/settings/general.php:48
+msgid "Template Theme"
+msgstr "Шаблон темы"
+
+#: inc/customizer/settings/general.php:49
+msgid ""
+"The addition of certain classes of different templates (for a developer)."
+msgstr "Добавление различных классов разным шаблонам (для разработчика)."
+
+#: inc/customizer/settings/general.php:55
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer/settings/general.php:56
+msgid "Gym"
+msgstr ""
+
+#: inc/customizer/settings/general.php:57
+msgid "Restaurant"
+msgstr ""
+
+#: inc/customizer/settings/general.php:58
+msgid "Construction"
+msgstr ""
+
+#: inc/customizer/settings/general.php:71
+msgid "Default Color"
+msgstr "Цвет по умолчанию"
+
+#: inc/customizer/settings/general.php:86
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: inc/customizer/settings/general.php:101
+#: inc/customizer/settings/general.php:262
+#: inc/customizer/settings/general.php:572
+#: inc/customizer/settings/general.php:754
+#: inc/customizer/settings/general.php:1059
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/customizer/settings/general.php:116
+msgid "Links Color"
+msgstr "Цвет ссылок"
+
+#: inc/customizer/settings/general.php:131
+msgid "Links Color: Hover"
+msgstr "Цвет ссылок при наведении"
+
+#: inc/customizer/settings/general.php:146
+msgid "Color H1, H2, H3, H4, H5, H6"
+msgstr "Цвет H1, H2, H3, H4, H5, H6"
+
+#: inc/customizer/settings/general.php:159
+msgid "Widgets Styling"
+msgstr "Стилизация Виджетов"
+
+#: inc/customizer/settings/general.php:173
+msgid "Title Widgets Color"
+msgstr "Цвет заголовка у виджетов"
+
+#: inc/customizer/settings/general.php:188
+msgid "Border Buttom Color"
+msgstr "Цвет нижнего подчеркивания"
+
+#: inc/customizer/settings/general.php:218
+#: inc/customizer/settings/general.php:542
+#: inc/customizer/settings/general.php:724
+msgid "Link Color"
+msgstr "Цвет ссылок"
+
+#: inc/customizer/settings/general.php:232
+msgid "Scroll To Top"
+msgstr "Перемотка вверх"
+
+#: inc/customizer/settings/general.php:246
+msgid "Scroll Up Button"
+msgstr "Кнопка перемотки вверх"
+
+#: inc/customizer/settings/general.php:280
+msgid "Background Color :hover"
+msgstr "Цвет фона при наведении"
+
+#: inc/customizer/settings/general.php:316
+msgid "Color :hover"
+msgstr "Цвет при наведении"
+
+#: inc/customizer/settings/general.php:334
+msgid "Border Radius"
+msgstr "Скругление углов"
+
+#: inc/customizer/settings/general.php:353
+msgid "Width"
+msgstr "Ширина"
+
+#: inc/customizer/settings/general.php:372
+msgid "Height"
+msgstr "Высота"
+
+#: inc/customizer/settings/general.php:390
+msgid "Post Styling"
+msgstr "Стиль страницы записи"
+
+#: inc/customizer/settings/general.php:404
+msgid "Color Meta"
+msgstr "Цвет мета данных"
+
+#: inc/customizer/settings/general.php:419
+msgid "Post Navigation Background"
+msgstr "Фон навигации между постами"
+
+#: inc/customizer/settings/general.php:433
+msgid "Widget Tags Cloud"
+msgstr "Виджет Облако Тегов"
+
+#: inc/customizer/settings/general.php:448
+msgid "top right bottom left: 9px 20px 9px 20px"
+msgstr "сверху справа снизу слева: 9px 20px 9px 20px"
+
+#: inc/customizer/settings/general.php:464
+#: inc/customizer/settings/general.php:878
+#: inc/customizer/settings/header.php:386
+msgid "Letter Spacing (px):"
+msgstr "Отступ между буквами (px)"
+
+#: inc/customizer/settings/general.php:480
+#: inc/customizer/settings/general.php:685
+#: inc/customizer/settings/header.php:364
+msgid "Text Transform:"
+msgstr "Трансформация текста:"
+
+#: inc/customizer/settings/general.php:486
+#: inc/customizer/settings/general.php:691
+#: inc/customizer/settings/general.php:1152
+#: inc/customizer/settings/general.php:1246
+#: inc/customizer/settings/header.php:370
+msgid "Uppercase"
+msgstr "Все буквы большие"
+
+#: inc/customizer/settings/general.php:487
+#: inc/customizer/settings/general.php:692
+#: inc/customizer/settings/general.php:1153
+#: inc/customizer/settings/general.php:1247
+#: inc/customizer/settings/header.php:371
+msgid "Lowercase"
+msgstr "Все буквы маленькие"
+
+#: inc/customizer/settings/general.php:488
+#: inc/customizer/settings/general.php:693
+#: inc/customizer/settings/general.php:1154
+#: inc/customizer/settings/general.php:1248
+#: inc/customizer/settings/header.php:372
+msgid "Capitalize"
+msgstr "Заглавные первые буквы"
+
+#: inc/customizer/settings/general.php:489
+#: inc/customizer/settings/general.php:694
+#: inc/customizer/settings/general.php:1155
+#: inc/customizer/settings/general.php:1249
+#: inc/customizer/settings/header.php:373
+msgid "None"
+msgstr "Без изменений"
+
+#: inc/customizer/settings/general.php:518
+#: inc/customizer/settings/general.php:661
+#: inc/customizer/settings/header.php:340
+msgid "Font Weight:"
+msgstr "Стиль шрифта"
+
+#: inc/customizer/settings/general.php:524
+#: inc/customizer/settings/general.php:667
+#: inc/customizer/settings/general.php:1128
+#: inc/customizer/settings/general.php:1222
+#: inc/customizer/settings/header.php:346
+msgid "400"
+msgstr "400"
+
+#: inc/customizer/settings/general.php:525
+#: inc/customizer/settings/general.php:668
+#: inc/customizer/settings/general.php:1129
+#: inc/customizer/settings/general.php:1223
+#: inc/customizer/settings/header.php:347
+msgid "500"
+msgstr "400"
+
+#: inc/customizer/settings/general.php:526
+#: inc/customizer/settings/general.php:669
+#: inc/customizer/settings/general.php:1130
+#: inc/customizer/settings/general.php:1224
+#: inc/customizer/settings/header.php:348
+msgid "600"
+msgstr "600"
+
+#: inc/customizer/settings/general.php:527
+#: inc/customizer/settings/general.php:670
+#: inc/customizer/settings/general.php:1131
+#: inc/customizer/settings/general.php:1225
+#: inc/customizer/settings/header.php:349
+msgid "700"
+msgstr "700"
+
+#: inc/customizer/settings/general.php:528
+#: inc/customizer/settings/general.php:671
+#: inc/customizer/settings/general.php:1132
+#: inc/customizer/settings/general.php:1226
+#: inc/customizer/settings/header.php:350
+msgid "800"
+msgstr "800"
+
+#: inc/customizer/settings/general.php:529
+#: inc/customizer/settings/general.php:672
+#: inc/customizer/settings/general.php:1133
+#: inc/customizer/settings/general.php:1227
+#: inc/customizer/settings/header.php:351
+msgid "900"
+msgstr "900"
+
+#: inc/customizer/settings/general.php:557
+#: inc/customizer/settings/general.php:739
+msgid "Link Color: Hover"
+msgstr "Цвет ссылок при наведении"
+
+#: inc/customizer/settings/general.php:587
+#: inc/customizer/settings/general.php:769
+msgid "Background Color: Hover"
+msgstr "Цвет фона при наведении"
+
+#: inc/customizer/settings/general.php:617
+#: inc/customizer/settings/general.php:815
+msgid "Border Color: Hover"
+msgstr "Цвет рамки при наведении"
+
+#: inc/customizer/settings/general.php:631
+msgid "Theme Buttons"
+msgstr "Кнопки темы"
+
+#: inc/customizer/settings/general.php:708
+msgid "top right bottom left: 15px 25px 15px 25px"
+msgstr "сверху справа снизу слева: 15px 25px 15px 25px"
+
+#: inc/customizer/settings/general.php:846
+msgid "Box Shadow: Hover"
+msgstr "Тень при наведении"
+
+#: inc/customizer/settings/general.php:892
+msgid "Forms (Input - Textarea)"
+msgstr "Формы (Input - Textarea)"
+
+#: inc/customizer/settings/general.php:906
+msgid "Label Color"
+msgstr "Цвет заголовка"
+
+#: inc/customizer/settings/general.php:938
+msgid "top right bottom left: 10px 15px 10px 15px"
+msgstr "сверху справа снизу слева: 10px 15px 10px 15px"
+
+#: inc/customizer/settings/general.php:1001
+msgid "Border Color: Focus"
+msgstr "Цвет рамки при нажатии"
+
+#: inc/customizer/settings/general.php:1031
+msgid "Color Placeholder"
+msgstr "Цвет placeholder"
+
+#: inc/customizer/settings/general.php:1045
+msgid "Subheader"
+msgstr "Подзаголовок"
+
+#: inc/customizer/settings/general.php:1075
+msgid "top right bottom left: 30px 0px 30px 0px"
+msgstr "сверху справа снизу слева: 30px 0px 30px 0px"
+
+#: inc/customizer/settings/general.php:1106
+msgid "Title Font Size (px):"
+msgstr "Размер шрифта у заголовка (px)"
+
+#: inc/customizer/settings/general.php:1122
+msgid "Title Font Weight:"
+msgstr "Стиль заголовка:"
+
+#: inc/customizer/settings/general.php:1146
+msgid "Title Text Transform:"
+msgstr "Трансформация заголовка:"
+
+#: inc/customizer/settings/general.php:1168
+msgid "Title Letter Spacing (px):"
+msgstr "Межбуквенный интервал заголовка (px)"
+
+#: inc/customizer/settings/general.php:1184
+msgid "Breadcrumbs Font Size (px):"
+msgstr "Размер хлебных крошек (px)"
+
+#: inc/customizer/settings/general.php:1200
+msgid "Icon Home Font Size (px):"
+msgstr "Размер значка дом (px)"
+
+#: inc/customizer/settings/general.php:1216
+msgid "Breadcrumbs Font Weight:"
+msgstr "Стиль хлебных крошек (px)"
+
+#: inc/customizer/settings/general.php:1240
+msgid "Breadcrumbs Text Transform:"
+msgstr "Трансформация текста хлебных крошек"
+
+#: inc/customizer/settings/general.php:1262
+msgid "Breadcrumbs Letter Spacing (px):"
+msgstr "Интервал между буквами хлебных крошек (px)"
+
+#: inc/customizer/settings/general.php:1278
+msgid "Arrows Color"
+msgstr "Цвет стрелок"
+
+#: inc/customizer/settings/general.php:1293
+msgid "Arrows Font Size (px):"
+msgstr "Размер стрелок (px):"
+
+#: inc/customizer/settings/general.php:1332
+msgid "Oops! That page cannot be found."
+msgstr "Ой! Эта страница не найдена."
+
+#: inc/customizer/settings/general.php:1337
+#: inc/customizer/settings/topbar.php:214
+msgid "Content"
+msgstr "Контент"
+
+#: inc/customizer/settings/general.php:1352
+msgid "Page Search - Not Found"
+msgstr "Страница поиска - Не найдено"
+
+#: inc/customizer/settings/general.php:1381
+msgid "Not Found Color"
+msgstr "Цвет заголовка"
+
+#: inc/customizer/settings/general.php:1396
+msgid "Not Found Border Color"
+msgstr "Цвет линии"
+
+#: inc/customizer/settings/header.php:26
+msgid "Header"
+msgstr "Область меню"
+
+#: inc/customizer/settings/header.php:34 inc/customizer/settings/topbar.php:38
+msgid "General"
+msgstr "Основные"
+
+#: inc/customizer/settings/header.php:48 inc/customizer/settings/topbar.php:130
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/customizer/settings/header.php:54
+msgid "Standard"
+msgstr "Стандартный"
+
+#: inc/customizer/settings/header.php:68
+msgid "Header full width"
+msgstr "Область меню во всю ширину"
+
+#: inc/customizer/settings/header.php:84
+msgid "Border bottom"
+msgstr "Нижнее подчеркивание"
+
+#: inc/customizer/settings/header.php:100
+msgid "Sticky Header"
+msgstr "Липкое меню"
+
+#: inc/customizer/settings/header.php:115
+#: inc/customizer/settings/header.php:447
+#: inc/customizer/settings/topbar.php:155
+msgid "Position"
+msgstr "Позиционирование"
+
+#: inc/customizer/settings/header.php:121
+#: inc/customizer/settings/topbar.php:161
+msgid "Relative"
+msgstr ""
+
+#: inc/customizer/settings/header.php:122
+#: inc/customizer/settings/topbar.php:162
+msgid "Absolute"
+msgstr "Абсолютное"
+
+#: inc/customizer/settings/header.php:135
+msgid "Offset Top (px):"
+msgstr "Отступ сверху (px):"
+
+#: inc/customizer/settings/header.php:151
+msgid "Offset Top (Tablet 768 - 425px):"
+msgstr "Отступ сверху (Планшет 768 - 425px):"
+
+#: inc/customizer/settings/header.php:167
+msgid "Offset Top (Mobile < 425px):"
+msgstr "Отступ сверху (Телефон < 425px):"
+
+#: inc/customizer/settings/header.php:183
+#: inc/customizer/settings/topbar.php:178
+msgid "RGBA Backgroung"
+msgstr "Фон RGBA"
+
+#: inc/customizer/settings/header.php:184
+#: inc/customizer/settings/header.php:201
+#: inc/customizer/settings/topbar.php:179
+msgid "Format: rgba(255, 255, 255, 1) or transparent or #ffffff"
+msgstr "Формат: rgba(255, 255, 255, 1) или transparent или #ffffff"
+
+#: inc/customizer/settings/header.php:200
+msgid "RGBA Background Sticky Header"
+msgstr ""
+
+#: inc/customizer/settings/header.php:221
+#: inc/customizer/settings/header.php:238
+msgid "Format: 0px 0px 0px 0px rgba(0,0,0, .1)"
+msgstr "Формат: 0px 0px 0px 0px rgba(0,0,0, .1)"
+
+#: inc/customizer/settings/header.php:237
+msgid "Box Shadow Sticky"
+msgstr "Тень у липкого меню"
+
+#: inc/customizer/settings/header.php:256
+msgid "Border Bottom Color"
+msgstr "Цвет нижнего подчеркивания"
+
+#: inc/customizer/settings/header.php:289
+msgid "Current Item Style"
+msgstr "Стиль текущего пункта меню"
+
+#: inc/customizer/settings/header.php:296
+msgid "Border Bottom"
+msgstr "Нижнее подчеркивание"
+
+#: inc/customizer/settings/header.php:309
+msgid "Current Item"
+msgstr "Текущий пункт меню"
+
+#: inc/customizer/settings/header.php:402
+msgid "Height (px):"
+msgstr "Высота (px)"
+
+#: inc/customizer/settings/header.php:433
+msgid "Mobile Menu"
+msgstr "Мобильное меню"
+
+#: inc/customizer/settings/header.php:455
+msgid "Top"
+msgstr "Сверху"
+
+#: inc/customizer/settings/header.php:456
+msgid "Bottom"
+msgstr "Снизу"
+
+#: inc/customizer/settings/header.php:469
+msgid "Effect opening submenus"
+msgstr ""
+
+#: inc/customizer/settings/header.php:475
+msgid "Overlap levels"
+msgstr "Уровни перекрытия"
+
+#: inc/customizer/settings/header.php:476
+msgid "Expand levels"
+msgstr ""
+
+#: inc/customizer/settings/header.php:477
+msgid "Unfolded levels"
+msgstr "Развернутые уровни"
+
+#: inc/customizer/settings/header.php:489
+msgid "Button Menu"
+msgstr "Кнопка меню"
+
+#: inc/customizer/settings/header.php:517
+msgid "Background :Hover"
+msgstr "Фон при наведении"
+
+#: inc/customizer/settings/header.php:559
+msgid "Color :Hover"
+msgstr "Цвет при наведении"
+
+#: inc/customizer/settings/header.php:587
+msgid "Enable Search"
+msgstr "Включить поиск"
+
+#: inc/customizer/settings/header.php:603
+msgid "Search Style"
+msgstr "Стиль поиска"
+
+#: inc/customizer/settings/header.php:609
+msgid "Dropdown"
+msgstr "Раскрывающееся"
+
+#: inc/customizer/settings/topbar.php:26
+msgid "Top Bar"
+msgstr "Верхняя панель"
+
+#: inc/customizer/settings/topbar.php:52
+msgid "Enable Top Bar"
+msgstr "Включить верхнюю панель"
+
+#: inc/customizer/settings/topbar.php:68
+msgid "Top Bar Full Width"
+msgstr "Верхняя панель во всю шарину"
+
+#: inc/customizer/settings/topbar.php:86
+msgid "Visibility"
+msgstr "Видимость"
+
+#: inc/customizer/settings/topbar.php:92
+msgid "Show On All Devices"
+msgstr "Показывать на всех устройствах"
+
+#: inc/customizer/settings/topbar.php:93
+msgid "Hide On Tablet"
+msgstr "Скрывать на планшетах"
+
+#: inc/customizer/settings/topbar.php:94
+msgid "Hide On Mobile"
+msgstr "Скрывать на мобильных"
+
+#: inc/customizer/settings/topbar.php:95
+msgid "Hide On Tablet and Mobile"
+msgstr "Скрывать на планшетах и мобильных"
+
+#: inc/customizer/settings/topbar.php:112
+msgid "top right bottom left: 10px 0px 10px 0px"
+msgstr "сверху справа снизу слева: 10px 0px 10px 0px"
+
+#: inc/customizer/settings/topbar.php:136
+msgid "Spece Between"
+msgstr ""
+
+#: inc/customizer/settings/topbar.php:139
+msgid "Flex Start"
+msgstr ""
+
+#: inc/customizer/settings/topbar.php:140
+msgid "Flex End"
+msgstr ""
+
+#: inc/customizer/settings/topbar.php:228
+msgid "Enable First Content Area"
+msgstr "Включить первую область контента"
+
+#: inc/customizer/settings/topbar.php:244
+msgid "Enable Second Content Area"
+msgstr "Включить вторую область контента"
+
+#: inc/customizer/settings/topbar.php:285
+#: inc/customizer/settings/topbar.php:305
+msgid "Place your content here"
+msgstr "Пожалуйста, введите контент здесь"
+
+#: inc/customizer/settings/topbar.php:291
+msgid "First Content Area"
+msgstr "Первая область контента"
+
+#: inc/customizer/settings/topbar.php:311
+msgid "Second Content Area"
+msgstr "Вторая область контента"
+
+#: inc/customizer/settings/topbar.php:329
+msgid "Social"
+msgstr "Социальные сети"
+
+#: inc/customizer/settings/topbar.php:343
+msgid "Enable Social"
+msgstr "Включить социальные сети"
+
+#: inc/customizer/settings/topbar.php:359
+msgid "Social Link Target"
+msgstr "В какой вкладке открывать?"
+
+#: inc/customizer/settings/topbar.php:365
+msgid "New Window"
+msgstr "В новом окне"
+
+#: inc/customizer/settings/topbar.php:366
+msgid "Same Window"
+msgstr "В этом окне"
+
+#: inc/customizer/settings/topbar.php:402
+msgid "top right bottom left: 0px 5px 0px 5px"
+msgstr "сверху справа снизу слева: 0px 5px 0px 5px"
+
+#: inc/customizer/settings/topbar.php:420
+msgid "Social Links Color"
+msgstr "Цвет ссылок"
+
+#: inc/customizer/settings/topbar.php:437
+msgid "Social Links Color: Hover"
+msgstr "Цвет ссылок при наведении"
+
+#: inc/customizer/settings/typography.php:26
+msgid "Typography"
+msgstr "Типографика"
+
+#: inc/customizer/settings/typography.php:38
+msgid "Body"
+msgstr "Тело страницы"
+
+#: inc/customizer/settings/typography.php:52
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#. Name of the theme
+msgid "SkyWP"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"SkyWP is a lightweight and highly extensible theme, you can use it to create "
+"your own websites, or you can use our demos. The first demo is done as a "
+"blog and business, in the future woocommerce will be added to the theme and "
+"added a demo on a variety of topics. The theme is perfect for Page Builder "
+"Elementor. Watch the demo: https://sky.urchenko.ru Installation instruction "
+"https://sky.urchenko.ru/get-started/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://sky.urchenko.ru"
+msgstr ""
+
+#. Author of the theme
+msgid "Vladislav Urchenko"
+msgstr "Владислав Юрченко"
+
+#. Author URI of the theme
+msgid "https://sky.urchenko.ru/about-me/"
+msgstr ""

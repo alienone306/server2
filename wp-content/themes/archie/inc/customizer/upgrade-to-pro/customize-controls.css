@@ -1,0 +1,24 @@
+#customize-controls .control-section-archie .accordion-section-title:hover,
+#customize-controls .control-section-archie .accordion-section-title:focus {
+	background-color: #333;
+	color: #fff;
+}
+
+.control-section-archie .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background-color: #F2BD19;
+	border-color: #F2BD19;
+	color: #000;
+}
+
+.rtl .control-section-archie .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-archie h3.accordion-section-title {
+    background-color: #333;
+    color: #fff;
+}

@@ -1,0 +1,225 @@
+/*
+ * MAIN
+ * Image Radio Buttons
+ * Control Heading
+ * 
+*/
+/*
+=======================================
+MAIN
+=======================================
+*/
+*{
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+input,textarea, button {
+    outline: none;
+}
+.customize-control-checkbox {
+    position: relative;
+    border-radius: 3px;
+    border: 1px solid #c7c7c7;
+    margin-bottom: -1px;
+    padding: 2px 10px;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+}
+.customize-control-checkbox input[type=checkbox] {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    margin: 0 6px 0 0;
+    vertical-align: top;
+}
+.customize-control-checkbox input[type=checkbox]:checked:before {
+    position: absolute;
+    left: 2.5px;
+    top: 1.5px;
+}
+.customize-control-title {
+    margin-top: 10px;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+}
+.customize-control select {
+    height: 27px;
+}
+.customize-control input[type=email],
+.customize-control input[type=number],
+.customize-control input[type=password],
+.customize-control input[type=search],
+.customize-control input[type=tel],
+.customize-control input[type=text],
+.customize-control input[type=url] {
+    height: 25px;
+}
+.wp-picker-container {
+    width: 100%;
+}
+.wp-picker-container .wp-color-result.button {
+    height: 25px;
+    width: 100%;
+    border-radius: 3px;
+    margin: 0;
+    padding: 0 0 0 50px;
+    border: 0;
+    font-size: 14px;
+}
+.wp-color-result-text {
+    background: rgba(0, 0, 0, .2);
+    border-radius: 0 3px 3px 0;
+    border-left: 0;
+    color: #fff;
+    display: block;
+    line-height: 28px;
+    padding: 0 10px;
+}
+.wp-picker-open + .wp-picker-input-wrap {
+    margin: 7px 0 0;
+}
+.wp-picker-container input[type="text"].wp-color-picker {
+    width: 85px;
+}
+.customize-control-checkbox {
+    position: relative;
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 0px;
+    padding: 1px 0px;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+}
+textarea, input, select {
+    font-size: 13px;
+    padding: 3px 10px;
+    border-radius: 3px;
+    margin: 0;
+    outline: none;
+}
+input[type="text"],
+input[type="password"],
+input[type="checkbox"],
+input[type="color"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="email"],
+input[type="month"],
+input[type="number"], input[type="search"],
+input[type="radio"],
+input[type="tel"],
+input[type="text"],
+input[type="time"],
+input[type="url"],
+input[type="week"],
+select,
+textarea {
+    border: 1px solid #c7c7c7;
+    -webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0);
+            box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0);
+    background-color: #fff;
+    color: #576069;
+    outline: none;
+    -webkit-transition: 0.05s border-color ease-in-out;
+    transition: 0.05s border-color ease-in-out;
+}
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="color"]:focus,
+input[type="date"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="email"]:focus,
+input[type="month"]:focus,
+input[type="number"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="text"]:focus,
+input[type="time"]:focus,
+input[type="url"]:focus,
+input[type="week"]:focus,
+input[type="checkbox"]:focus,
+input[type="radio"]:focus,
+select:focus,
+textarea:focus {
+    border-color: #00b4ff;
+    -webkit-box-shadow: 0 0 2px rgba(250, 250, 250, 0);
+            box-shadow: 0 0 2px rgba(250, 250, 250, 0);
+    outline: none;
+}
+input[type="checkbox"] {
+   border: 1px solid #00b4ff;
+    -webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0);
+            box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0);
+    background-color: transparent;
+}
+input[type="checkbox"]:checked:before {
+    margin: -3px 0 0 -5px;
+    border-radius: 3px;
+}
+.customize-control .customize-inside-control-row {
+    font-size: 13px;
+    line-height: 1.6;
+    display: block;
+    margin-left: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: capitalize;
+}
+
+
+
+/*
+=======================================
+- Image Radio Buttons
+=======================================
+*/
+.image_radio_button_control .radio-button-label {
+    display: inline-block;
+    line-height: 0;
+    width: 32%;
+}
+.image_radio_button_control .radio-button-label > input {
+    display: none;
+}
+.image_radio_button_control .radio-button-label > img {
+    cursor: pointer;
+    border: 2px solid #c7c7c7;
+}
+.image_radio_button_control .radio-button-label > input:checked + img {
+    border: 2px solid #00b4ff;
+}
+
+
+
+/*
+=======================================
+Control Heading
+=======================================
+*/
+.customize-control-customize-heading { 
+    margin-top: 12px;
+}
+.heading-wrap { 
+    display: block; 
+    margin: 0 -12px; 
+    padding: 10px 12px; 
+    background-color: #fff; 
+    border: 1px solid #00b4ff; 
+    border-left: 0; 
+    border-right: 0;
+}
+.customizer-heading { 
+    display: block;
+    color: #00b4ff;
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: capitalize; 
+}
+.customize-control-customize-heading .description {
+    display: block; 
+    margin-top: 10px; 
+}

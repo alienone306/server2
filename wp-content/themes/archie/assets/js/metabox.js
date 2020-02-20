@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#archie-ui-tabs").tabs()});
